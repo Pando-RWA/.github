@@ -1,4 +1,4 @@
-# Pull Request Template
+# Pull Request
 
 ## JIRA Ticket
 **Link to JIRA Ticket:**  
